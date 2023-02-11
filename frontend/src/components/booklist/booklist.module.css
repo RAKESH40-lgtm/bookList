@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button{
+    float: right;
+    width: 13%;
+    margin: -2rem 1rem;float: right;
+   
+}
+.add{
+    width: 10%;
+    border: 1px solid black;
+    background-color: yellow;
+    color: white;
+    float: right;
+    margin: 4rem 1rem;
+}
+a{
+    text-decoration: none;
+}
